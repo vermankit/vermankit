@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India <img height="25px" width="25px" src='https://camo.githubusercontent.com/dcd0ced4bc49011e1eb9e86e38d3063f9bb6d2caa6c50564dc07c60192190ad7/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3031312f3537312f3531392f6f726967696e616c2f636972636c652d666c61672d6f662d696e6469612d667265652d706e672e706e67'/> </h3>
 
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Claim Insurance App<br><br>🌱 I’m currently learning Angular 18<br><br>👯 I’m looking to collaborate on Open Source Project<br><br>💬 Ask me about  application development | React | Angular | .Net | Azure<br><br>📫 How to reach me ankit_ver12@yahoo.com
 
 
