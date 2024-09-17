@@ -2,7 +2,7 @@
 🔭 I’m currently working on Claim Insurance App<br><br>🌱 I’m currently learning Angular 18<br><br>👯 I’m looking to collaborate on Open Source Project<br><br>💬 Ask me about  application development | React | Angular | .Net | Azure<br><br>📫 How to reach me ankit_ver12@yahoo.com
 
 
-## 🌐 Socials:
+## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vermankiteng) 
 
 # 💻 Tech Stack:
