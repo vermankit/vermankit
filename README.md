@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Edu-Tech Application<br><br>🌱 I’m currently learning Angular 18<br><br>👯 I’m looking to collaborate on Open Source Project<br><br>💬 Ask me about  application development | React | Angular | .Net | Azure<br><br>📫 How to reach me ankit_ver12@yahoo.com
+🔭 I’m currently working on Factory Automation Project<br><br>🌱 I’m currently learning Applied AI<br><br>👯 I’m looking to collaborate on Open Source Project<br><br>💬 Ask me about  application development | React | Angular | .Net | Azure<br><br>📫 How to reach me ankit_ver12@yahoo.com
 
 
 ## 🌐 Lets Connect:
