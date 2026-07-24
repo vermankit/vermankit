@@ -1,143 +1,187 @@
-<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
+<div align="center">
 
-<h3 align="center">
-Engineering Manager | Full Stack .NET Architect | Azure Cloud | AI/ML Enthusiast
-</h3>
+# Hi there, I'm Ankit Verma 👋
 
-<p align="center">
-Building scalable enterprise applications with modern cloud-native architecture.
+### Engineering Manager • Staff Software Engineer • Cloud Architect • AI/ML Enthusiast
+
+Building scalable cloud-native applications, distributed systems, and modern AI solutions with .NET and Azure.
+
+<p>
+<a href="https://linkedin.com/in/vermankiteng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankit_ver12@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=vermankit&style=flat-square"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-- 💼 Engineering Manager with **12+ years** of experience in enterprise software development
-- 🚀 Currently building **Factory Automation** solutions using .NET, Azure and Kubernetes
-- 🌱 Learning **Machine Learning, Applied AI, LLMs and MLOps**
-- 🏗 Passionate about Microservices, Distributed Systems and Cloud Architecture
-- 🤝 Open to collaborating on Open Source and AI projects
-- 💬 Ask me about:
-  - ASP.NET Core
-  - C#
-  - Azure
-  - React
-  - Angular
-  - Microservices
-  - System Design
-  - Kubernetes
-
-📫 **Email:** ankit_ver12@yahoo.com
+</div>
 
 ---
 
-# 🚀 Current Focus
+# About Me
 
-- Machine Learning
-- Applied AI
-- Generative AI
-- Azure AI
-- Kubernetes
-- System Design
-- Clean Architecture
+- Engineering Manager with **12+ years** of experience building enterprise software
+- Designing scalable **Microservices** and **Cloud Native** platforms
+- Passionate about **System Design**, **Distributed Systems**, and **Clean Architecture**
+- Currently learning **Machine Learning**, **LLMs**, **MLOps**, and **Generative AI**
+- Always interested in solving complex engineering problems
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python"/>
+</p>
 
 ### Backend
 
-.NET • ASP.NET Core • Web API • Entity Framework Core • MediatR • SignalR
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs"/>
+</p>
+
+ASP.NET Core • Entity Framework Core • Web API • MediatR • SignalR
+
+---
 
 ### Frontend
 
-React • Next.js • Angular • Redux • React Query
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular"/>
+</p>
 
-### Cloud
+React Query • Redux • TypeScript
 
-Azure • Azure DevOps • AKS • Docker • Kubernetes
+---
 
-### Databases
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git"/>
+</p>
+
+Azure DevOps • AKS • Azure Service Bus • RabbitMQ
+
+---
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
 
 SQL Server • PostgreSQL • MongoDB • Redis
 
-### Messaging
-
-RabbitMQ • Azure Service Bus
-
-### DevOps
-
-Docker • Kubernetes • GitHub Actions • Azure DevOps • SonarQube
+---
 
 ### Observability
 
-Grafana • Prometheus • Datadog
-
-### Currently Learning
-
-Python • Scikit-Learn • Pandas • NumPy • Machine Learning • LLMs
+Grafana • Prometheus • Datadog • SonarQube
 
 ---
 
-# 🌐 Connect With Me
+# Current Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vermankiteng)
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vermankit&show_icons=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=vermankit)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermankit&layout=compact)
+```text
+Machine Learning
+Generative AI
+Azure AI
+LangChain
+LLMs
+MLOps
+Python
+```
 
 ---
 
-# 🏆 GitHub Trophies
+# Featured Projects
 
-![](https://github-profile-trophy.vercel.app/?username=vermankit&theme=flat&no-frame=true)
+## Factory Automation Platform
+
+Enterprise-grade manufacturing platform built with
+
+- ASP.NET Core
+- Azure
+- Kubernetes
+- RabbitMQ
+- Clean Architecture
+- Event Driven Architecture
 
 ---
 
-# 📌 Featured Projects
+## Telco Customer Churn Prediction
 
-### 🚀 Telco Customer Churn Prediction
-Machine Learning project covering complete ML lifecycle:
-- EDA
+Machine Learning project covering
+
+- Business Understanding
+- Exploratory Data Analysis
 - Feature Engineering
-- Model Building
+- Model Training
 - Hyperparameter Tuning
 - Business Insights
 
 ---
 
-### 🏭 Factory Automation Platform
-Enterprise microservice solution using:
+## Enterprise AI Chatbot
 
-- .NET
-- Azure
-- Kubernetes
-- RabbitMQ
-- Clean Architecture
-
----
-
-### 💬 AI Chatbot (RAG)
-Enterprise chatbot using:
+RAG-based chatbot built using
 
 - Azure OpenAI
 - LangChain
 - Vector Database
-- Retrieval Augmented Generation
+- Semantic Search
 
 ---
 
-> *"Clean Architecture. Scalable Systems. Continuous Learning."*
+# Architecture Interests
+
+- Domain Driven Design
+- Event Driven Architecture
+- CQRS
+- Distributed Systems
+- Cloud Native Development
+- High Performance APIs
+- System Design
+- AI Engineering
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermankit&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermankit&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vermankit"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vermankit&theme=github-compact"/>
+
+</p>
+
+---
+
+# Open Source Goals (2026)
+
+- Build reusable .NET templates
+- Share AI & ML projects
+- Publish System Design examples
+- Contribute to OSS
+- Write engineering articles
+
+---
+
+> "Building reliable software through clean architecture, scalable systems, and continuous learning."
